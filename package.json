@@ -1,0 +1,9 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "config": "^3.3.6",
+    "mime": "^2.5.2"
+  }
+}
